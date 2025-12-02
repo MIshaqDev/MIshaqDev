@@ -69,46 +69,46 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 
 # 📊 GitHub Stats 
 <p align= "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqmuhammad&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MIshaqDev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqmuhammad&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIshaqDev&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaqMuhammad&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIshaqDev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IshaqMuhammad&theme=transparent&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MIshaqDev&theme=transparent&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ### 🔝 Top Contributed Repo  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=IshaqMuhammad&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MIshaqDev&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
 </p>
 ---
 
 ## 📈 Activity Graph  
-[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaqmuhammad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MIshaqDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 My GitHub Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IshaqMuhammad/IshaqMuhammad/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/IshaqMuhammad/IshaqMuhammad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/MIshaqDev/MIshaqDev/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/MIshaqDev/MIshaqDev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ishaqmuhammad&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MIshaqDev&icon=2&color=6)](https://visitcount.itsvg.in)
 
