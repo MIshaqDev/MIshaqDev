@@ -30,7 +30,7 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 - 🎨 Hobbies: **Cricket & Photography**  
 
 📫 **Reach Me At:**  
-📧 Email: ishaqshamraiz33@gmail.com  
+📧 Email: muhammadishaq.dev@gmail.com  
 
 
 ---
