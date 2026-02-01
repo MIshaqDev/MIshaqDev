@@ -21,12 +21,13 @@
 ---
 
 ### 💡 About Me  
-I am a Computer Science student. I have intrest in techical feilds. I also have a great base in Python, C++ and along with these two i also have knowledge about HTML, CSS and Javascript. As till I am a learner but i belive that one day I will become good in web development (Insha Allah). 
+I’m Muhammad Ishaq, a BS Computer Science undergraduate and MERN developer. I have experience in Frontend and Backend development, MongoDB, Git, VS Code, and Linux. I enjoy creating clean, user-friendly UIs and have a strong security mindset.
+I started coding during my BS degree and gradually progressed from basic programming to full-stack projects like Secure Lab. I’m eager to work on real-world projects to explore new technologies and challenges. As till I am a learner but i belive that one day I will become good in web development (Insha Allah). 
 
-An aspiring **C++ and Python Developer** with a passion for learning and building impactful projects.  
+An aspiring **Web developer** with a passion for learning and building impactful projects.  
 
-- 🌱 Currently enhancing my **C++ and Python** skills  
-- 💼 My projects are Blood Bank Database, Smart City Waste Collection System and also a streamlit based Youtube video downloader.  
+- 🌱 Currently enhancing my **Web development** skills  
+- 💼 My projects are Smart City Waste Collection System and also a streamlit based Youtube video downloader. I also make Full stack application like Secure Lab.
 - 🎨 Hobbies: **Cricket & Photography**  
 
 📫 **Reach Me At:**  
