@@ -21,13 +21,13 @@
 ---
 
 ### 💡 About Me  
-I’m Muhammad Ishaq, a BS Computer Science undergraduate and MERN developer. I have experience in Frontend and Backend development, MongoDB, Git, VS Code, and Linux. I enjoy creating clean, user-friendly UIs and have a strong security mindset.
-I started coding during my BS degree and gradually progressed from basic programming to full-stack projects like Secure Lab. I’m eager to work on real-world projects to explore new technologies and challenges. As till I am a learner but i belive that one day I will become good in web development (Insha Allah). 
+I’m Muhammad Ishaq, a BS Computer Science undergraduate and Cyber Security Enthusiast. I also have experience in Frontend and Backend development, MongoDB, Git, VS Code, and Linux. I enjoy creating clean, user-friendly UIs and have a strong security mindset.
+I started coding during my BS degree and gradually progressed from basic programming to cyber security projects like secure lab. I’m eager to work on real-world projects to explore new technologies and challenges. As till I am a learner but i belive that one day I will become good in ethical hacking (Insha Allah). 
 
-An aspiring **Web developer** with a passion for learning and building impactful projects.  
+An aspiring **Cyber Sercurity** with a passion for learning and building impactful projects.  
 
-- 🌱 Currently enhancing my **Web development** skills  
-- 💼 My projects are Smart City Waste Collection System and also a streamlit based Youtube video downloader. I also make Full stack application like Secure Lab.
+- 🌱 Currently enhancing my **Cyber Security** skills  
+- 💼 My projects are Smart City Waste Collection System and also a streamlit based Youtube video downloader. I also make Cyber security related application like Secure Lab.
 - 🎨 Hobbies: **Cricket & Photography**  
 
 📫 **Reach Me At:**  
