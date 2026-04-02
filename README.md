@@ -14,24 +14,29 @@
 <p align="center">
   <!-- Subtitles -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=2000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Development+Enthusiast;Aspirant+Python+Developer;C%2B%2B+Learner"
+    src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=2000&color=%2300FF41&center=true&vCenter=true&width=600&lines=BS%20Computer%20Science%20Student;Cyber%20Security%20Enthusiast;Aspirant%20Red%20Teamer"
     alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me  
-I’m Muhammad Ishaq, a BS Computer Science undergraduate and Cyber Security Enthusiast. I also have experience in Frontend and Backend development, MongoDB, Git, VS Code, and Linux. I enjoy creating clean, user-friendly UIs and have a strong security mindset.
-I started coding during my BS degree and gradually progressed from basic programming to cyber security projects like secure lab. I’m eager to work on real-world projects to explore new technologies and challenges. As till I am a learner but i belive that one day I will become good in ethical hacking (Insha Allah). 
+# 💡 About Me
 
-An aspiring **Cyber Sercurity** with a passion for learning and building impactful projects.  
+I’m Muhammad Ishaq, a Cybersecurity enthusiast and Red Team aspirant with a strong background in Linux and ethical hacking fundamentals. I’m passionate about learning, exploring vulnerabilities, and building secure systems. I love hands-on projects that combine security, coding, and problem-solving. Currently, I’m focused on sharpening my cybersecurity skills and contributing to real-world security challenges. Insha Allah, I aim to become a proficient ethical hacker.
 
-- 🌱 Currently enhancing my **Cyber Security** skills  
-- 💼 My projects are Smart City Waste Collection System and also a streamlit based Youtube video downloader. I also make Cyber security related application like Secure Lab.
-- 🎨 Hobbies: **Cricket & Photography**  
+## 🌱 Currently Learning:
 
-📫 **Reach Me At:**  
-📧 Email: muhammadishaq.dev@gmail.com  
+ - Red Teaming & Penetration Testing
+ - Ethical Hacking & Security Auditing
+ - Linux & Secure System Administration
+
+## 💼 Projects & Work:
+
+ - Secure Lab: For Encryption and Decryption of text
+ - Smart City Waste Collection System 
+
+## 📫 Reach Me At:
+📧 Email: muhammadishaq.dev@gmail.com 
 
 
 ---
@@ -52,19 +57,33 @@ An aspiring **Cyber Sercurity** with a passion for learning and building impactf
 
 ---
 
-# 💻 Tech Stack  
+# 💻 Tech Stack 
+
+## 🛡️ Cybersecurity & OS
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/ParrotOS-1f1f1f?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+
+## 💻 Programming
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## ⚙️ Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🌐 Web & Development
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
+
 
 ---
 
