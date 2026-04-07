@@ -103,7 +103,7 @@ I’m Muhammad Ishaq, a Cybersecurity enthusiast and Red Team aspirant with a st
 
 # 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishaqdev&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishaqsec&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <div align="center">
@@ -113,18 +113,18 @@ I’m Muhammad Ishaq, a Cybersecurity enthusiast and Red Team aspirant with a st
 ---
 
 ## 📈 Activity Graph  
-[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mishaqdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mishaqsec&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 My GitHub Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqdev/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqdev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqsec/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqsec/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mishaqdev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mishaqsec&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
