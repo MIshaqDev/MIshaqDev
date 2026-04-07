@@ -119,8 +119,8 @@ I’m Muhammad Ishaq, a Cybersecurity enthusiast and Red Team aspirant with a st
 
 ## 🐍 My GitHub Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqsec/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqsec/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mishaqsec/mishaqsec/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/mishaqsec/mishaqsec/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </div>
 
 ---
