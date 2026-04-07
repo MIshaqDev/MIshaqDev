@@ -57,78 +57,74 @@ I’m Muhammad Ishaq, a Cybersecurity enthusiast and Red Team aspirant with a st
 
 ---
 
-# 💻 Tech Stack 
+## 💻 Tech Stack
 
-## 🛡️ Cybersecurity & OS
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/ParrotOS-1f1f1f?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+### 🛡️ Cybersecurity & OS
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a> <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/>
+  </a>
+</p>
 
-## 💻 Programming
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 💻 Programming
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+</p>
 
-## ⚙️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚙️ Tools
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="filter: invert(1);"/>
+</a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+</p>
 
-## 🌐 Web & Development
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 
 
 ---
 
 # 📊 GitHub Stats 
-<p align= "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIshaqDev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIshaqDev&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishaqdev&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIshaqDev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
 
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MIshaqDev&theme=transparent&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MIshaqDev&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-</p>
 ---
 
 ## 📈 Activity Graph  
-[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MIshaqDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mishaqdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 My GitHub Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MIshaqDev/MIshaqDev/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/MIshaqDev/MIshaqDev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqdev/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/mishaqdev/mishaqdev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MIshaqDev&icon=2&color=6)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mishaqdev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
