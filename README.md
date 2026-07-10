@@ -90,13 +90,13 @@ I’m **Muhammad Ishaq**, a *Cybersecurity enthusiast* and *Red Team aspirant* w
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://portswigger.net/burp">
-  <img src="https://cdn.simpleicons.org/burpsuite" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" width="40"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.metasploit.com/">
-  <img src="https://docs.rapid7.com/assets/img/metasploit.svg" width="40" alt="Metasploit"/>
+  <img src="https://dl.svgcdn.com/svg/simple-icons/metasploit.svg" width="40" alt="Metasploit"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
